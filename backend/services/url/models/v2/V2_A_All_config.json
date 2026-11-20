@@ -1,0 +1,22 @@
+{
+  "features": [
+    "URLLength",
+    "DomainLength",
+    "PathLength",
+    "QueryLength",
+    "IsDomainIP",
+    "TLDLength",
+    "NoOfSubDomain",
+    "NoOfLettersInURL",
+    "NoOfDigitsInURL",
+    "DigitRatioInURL",
+    "NoOfHyphens",
+    "NoOfDots",
+    "NoOfEquals",
+    "NoOfQMark",
+    "NoOfAmpersand",
+    "IsHTTPS",
+    "SchemeKnown"
+  ],
+  "threshold": 0.3999999999999998
+}
