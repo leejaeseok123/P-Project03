@@ -1,5 +1,9 @@
 [project]
-name = "handcaptcha"
+name = "P-Project03"
 version = "0.1.0"
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "httpx>=0.28.1",
+    "lxml>=6.1.3",
+]
