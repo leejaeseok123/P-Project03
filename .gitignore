@@ -162,3 +162,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+
+# Local FSS source media, metadata, audio, transcripts and run statistics
+/data/voice_phishing/
+/data/fss_stt_review.zip
+/data/fss_qwen_*.zip
+
